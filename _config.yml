@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Erfan Nejati"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student, Rotman School of Management"
-  employer         : "University of Toronto"
+  bio              : "Ph.D. Student, Rotman School of Management, University of Toronto"
+  employer         : # ""
   location         : "Toronto, ON"
   uri              : # URL
   email            : "e.nejati@rotman.utoronto.ca" 
