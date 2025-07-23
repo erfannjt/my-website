@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Erfan Nejati"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Erfan Nejati"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at Rotman School of Management"
+  bio              : "Ph.D. Student, Rotman School of Management"
   employer         : "University of Toronto"
   location         : "Toronto, ON"
   uri              : # URL
