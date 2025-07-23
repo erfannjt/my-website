@@ -1,1 +1,10 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 Hi, I'm Erfan Nejati, a Ph.D. student in Operations Management and Statistics at the Rotman School of Management, University of Toronto.
+
